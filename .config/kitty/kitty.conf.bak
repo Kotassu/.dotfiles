@@ -19,6 +19,6 @@ detect_urls yes
 
 
 # BEGIN_KITTY_THEME
-# shadotheme
+# Default
 include current-theme.conf
 # END_KITTY_THEME
